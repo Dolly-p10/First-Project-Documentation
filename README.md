@@ -49,3 +49,13 @@ WHERE A > 45
 ```
 
 ### Analysis
+
+![Pie Chart](https://github.com/user-attachments/assets/ea5e1f55-d0a9-4b0d-9cc0-7af28922f97f)
+
+
+![Bar Chart](https://github.com/user-attachments/assets/2a228cfb-9a1c-48a8-868d-9b68abad3a50)
+
+
+
+
+
